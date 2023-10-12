@@ -1,0 +1,194 @@
+/* Center the loading message */
+body {
+  padding: 10px;
+}
+
+ol.podcasts {
+  --r-globalmessage-segment-height: 0px;
+  --r-globalnav-segmentbar-height: 0px;
+  --r-globalnav-height: 48px;
+  -webkit-text-size-adjust: 100%;
+  quotes: "“" "”";
+  --r-globalnav-background-opened: #fbfbfd;
+  --r-globalnav-background-opened-dark: #161617;
+  --r-localnav-height: 52px;
+  --r-localnav-stacked-height: 66px;
+  --r-localnav-gn-height: var(--r-globalnav-height, 44px);
+  --r-localnav-viewport-large-min-width: 1024px;
+  --r-localnav-viewport-large-query: (min-width: 1024px);
+  --r-localnav-viewport-medium-min-width: 768px;
+  --r-localnav-viewport-medium-max-width: 1023px;
+  --r-localnav-viewport-medium-query: (min-width: 768px);
+  --r-localnav-viewport-small-min-width: 320px;
+  --r-localnav-viewport-small-max-width: 767px;
+  --r-localnav-viewport-small-query: (min-width: 320px);
+  line-height: 1.38462;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Apple WebExp Icons Custom",
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #1d1d1f;
+  font-style: normal;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  direction: ltr;
+  text-align: left;
+  font-size: 13px;
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+
+  li.podcast {
+    --r-globalmessage-segment-height: 0px;
+    --r-globalnav-segmentbar-height: 0px;
+    --r-globalnav-height: 48px;
+    -webkit-text-size-adjust: 100%;
+    quotes: "“" "”";
+    --r-globalnav-background-opened: #fbfbfd;
+    --r-globalnav-background-opened-dark: #161617;
+    --r-localnav-height: 52px;
+    --r-localnav-stacked-height: 66px;
+    --r-localnav-gn-height: var(--r-globalnav-height, 44px);
+    --r-localnav-viewport-large-min-width: 1024px;
+    --r-localnav-viewport-large-query: (min-width: 1024px);
+    --r-localnav-viewport-medium-min-width: 768px;
+    --r-localnav-viewport-medium-max-width: 1023px;
+    --r-localnav-viewport-medium-query: (min-width: 768px);
+    --r-localnav-viewport-small-min-width: 320px;
+    --r-localnav-viewport-small-max-width: 767px;
+    --r-localnav-viewport-small-query: (min-width: 320px);
+    line-height: 1.38462;
+    font-weight: 400;
+    letter-spacing: -0.005em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Apple WebExp Icons Custom",
+      "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #1d1d1f;
+    font-style: normal;
+    font-synthesis: none;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    font-size: 13px;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-bottom: 14px;
+    border-top: none;
+    padding-top: 0;
+
+    div.l1 {
+      --r-globalmessage-segment-height: 0px;
+      --r-globalnav-segmentbar-height: 0px;
+      --r-globalnav-height: 48px;
+      -webkit-text-size-adjust: 100%;
+      quotes: "“" "”";
+      --r-globalnav-background-opened: #fbfbfd;
+      --r-globalnav-background-opened-dark: #161617;
+      --r-localnav-height: 52px;
+      --r-localnav-stacked-height: 66px;
+      --r-localnav-gn-height: var(--r-globalnav-height, 44px);
+      --r-localnav-viewport-large-min-width: 1024px;
+      --r-localnav-viewport-large-query: (min-width: 1024px);
+      --r-localnav-viewport-medium-min-width: 768px;
+      --r-localnav-viewport-medium-max-width: 1023px;
+      --r-localnav-viewport-medium-query: (min-width: 768px);
+      --r-localnav-viewport-small-min-width: 320px;
+      --r-localnav-viewport-small-max-width: 767px;
+      --r-localnav-viewport-small-query: (min-width: 320px);
+      line-height: 1.38462;
+      font-weight: 400;
+      letter-spacing: -0.005em;
+      font-family: "SF Pro Text", "SF Pro Icons", "Apple WebExp Icons Custom",
+        "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #1d1d1f;
+      font-style: normal;
+      font-synthesis: none;
+      -webkit-font-smoothing: antialiased;
+      direction: ltr;
+      list-style: none;
+      box-sizing: inherit;
+      padding: 0;
+      font-size: 0;
+      margin-left: -2.97619%;
+
+      div.l2 {
+        --r-globalmessage-segment-height: 0px;
+        --r-globalnav-segmentbar-height: 0px;
+        --r-globalnav-height: 48px;
+        -webkit-text-size-adjust: 100%;
+        quotes: "“" "”";
+        --r-globalnav-background-opened: #fbfbfd;
+        --r-globalnav-background-opened-dark: #161617;
+        --r-localnav-height: 52px;
+        --r-localnav-stacked-height: 66px;
+        --r-localnav-gn-height: var(--r-globalnav-height, 44px);
+        --r-localnav-viewport-large-min-width: 1024px;
+        --r-localnav-viewport-large-query: (min-width: 1024px);
+        --r-localnav-viewport-medium-min-width: 768px;
+        --r-localnav-viewport-medium-max-width: 1023px;
+        --r-localnav-viewport-medium-query: (min-width: 768px);
+        --r-localnav-viewport-small-min-width: 320px;
+        --r-localnav-viewport-small-max-width: 767px;
+        --r-localnav-viewport-small-query: (min-width: 320px);
+        line-height: 1.38462;
+        font-weight: 400;
+        letter-spacing: -0.005em;
+        font-family: "SF Pro Text", "SF Pro Icons", "Apple WebExp Icons Custom",
+          "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #1d1d1f;
+        font-style: normal;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        direction: ltr;
+        list-style: none;
+        box-sizing: inherit;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        font-size: 13px;
+        vertical-align: top !important;
+        align-self: start;
+        margin-left: 2.89017%;
+        position: relative;
+        padding-left: 10px;
+
+        a.podcast {
+          --r-globalmessage-segment-height: 0px;
+          --r-globalnav-segmentbar-height: 0px;
+          --r-globalnav-height: 48px;
+          -webkit-text-size-adjust: 100%;
+          quotes: "“" "”";
+          --r-globalnav-background-opened: #fbfbfd;
+          --r-globalnav-background-opened-dark: #161617;
+          --r-localnav-height: 52px;
+          --r-localnav-stacked-height: 66px;
+          --r-localnav-gn-height: var(--r-globalnav-height, 44px);
+          --r-localnav-viewport-large-min-width: 1024px;
+          --r-localnav-viewport-large-query: (min-width: 1024px);
+          --r-localnav-viewport-medium-min-width: 768px;
+          --r-localnav-viewport-medium-max-width: 1023px;
+          --r-localnav-viewport-medium-query: (min-width: 768px);
+          --r-localnav-viewport-small-min-width: 320px;
+          --r-localnav-viewport-small-max-width: 767px;
+          --r-localnav-viewport-small-query: (min-width: 320px);
+          line-height: 1.38462;
+          font-weight: 400;
+          font-family: "SF Pro Text", "SF Pro Icons",
+            "Apple WebExp Icons Custom", "Helvetica Neue", Helvetica, Arial,
+            sans-serif;
+          font-style: normal;
+          font-synthesis: none;
+          -webkit-font-smoothing: antialiased;
+          direction: ltr;
+          list-style: none;
+          box-sizing: inherit;
+          letter-spacing: inherit;
+
+          z-index: 2;
+          text-decoration: none;
+          color: #7d50df;
+        }
+      }
+    }
+  }
+}

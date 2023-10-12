@@ -1,0 +1,141 @@
+.podCastDetail {
+  .artistName {
+    --r-globalmessage-segment-height: 0px;
+    --r-globalnav-segmentbar-height: 0px;
+    --r-globalnav-height: 48px;
+    -webkit-text-size-adjust: 100%;
+    quotes: "“" "”";
+    --r-globalnav-background-opened: #fbfbfd;
+    --r-globalnav-background-opened-dark: #161617;
+    --r-localnav-viewport-large-min-width: 1024px;
+    --r-localnav-viewport-large-query: (min-width: 1024px);
+    --r-localnav-viewport-medium-min-width: 768px;
+    --r-localnav-viewport-medium-max-width: 1023px;
+    --r-localnav-viewport-medium-query: (min-width: 768px);
+    --r-localnav-viewport-small-min-width: 320px;
+    --r-localnav-viewport-small-max-width: 767px;
+    --r-localnav-viewport-small-query: (min-width: 320px);
+    --r-localnav-height: 48px;
+    --r-localnav-stacked-height: 63px;
+    --r-localnav-gn-height: var(--r-globalnav-height, 48px);
+    font-style: normal;
+    font-synthesis: none;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    text-align: left;
+    color: #1d1d1f;
+    box-sizing: inherit;
+    display: block;
+    font-size: 18px;
+    line-height: 1.22226;
+    font-weight: 600;
+    letter-spacing: 0.027em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Apple WebExp Icons Custom",
+      "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .collectionName {
+    --r-globalmessage-segment-height: 0px;
+    --r-globalnav-segmentbar-height: 0px;
+    --r-globalnav-height: 48px;
+    -webkit-text-size-adjust: 100%;
+    quotes: "“" "”";
+    --r-globalnav-background-opened: #fbfbfd;
+    --r-globalnav-background-opened-dark: #161617;
+    --r-localnav-viewport-large-min-width: 1024px;
+    --r-localnav-viewport-large-query: (min-width: 1024px);
+    --r-localnav-viewport-medium-min-width: 768px;
+    --r-localnav-viewport-medium-max-width: 1023px;
+    --r-localnav-viewport-medium-query: (min-width: 768px);
+    --r-localnav-viewport-small-min-width: 320px;
+    --r-localnav-viewport-small-max-width: 767px;
+    --r-localnav-viewport-small-query: (min-width: 320px);
+    --r-localnav-height: 48px;
+    --r-localnav-stacked-height: 63px;
+    --r-localnav-gn-height: var(--r-globalnav-height, 48px);
+    font-style: normal;
+    font-synthesis: none;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    text-align: left;
+    color: #1d1d1f;
+    box-sizing: inherit;
+    display: block;
+    font-size: 18px;
+    line-height: 1.22226;
+    font-weight: 400;
+    letter-spacing: 0.027em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Apple WebExp Icons Custom",
+      "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 2px;
+  }
+  .summary {
+    --r-globalmessage-segment-height: 0px;
+    --r-globalnav-segmentbar-height: 0px;
+    --r-globalnav-height: 48px;
+    -webkit-text-size-adjust: 100%;
+    quotes: "“" "”";
+    --r-globalnav-background-opened: #fbfbfd;
+    --r-globalnav-background-opened-dark: #161617;
+    --r-localnav-viewport-large-min-width: 1024px;
+    --r-localnav-viewport-large-query: (min-width: 1024px);
+    --r-localnav-viewport-medium-min-width: 768px;
+    --r-localnav-viewport-medium-max-width: 1023px;
+    --r-localnav-viewport-medium-query: (min-width: 768px);
+    --r-localnav-viewport-small-min-width: 320px;
+    --r-localnav-viewport-small-max-width: 767px;
+    --r-localnav-viewport-small-query: (min-width: 320px);
+    --r-localnav-height: 48px;
+    --r-localnav-stacked-height: 63px;
+    --r-localnav-gn-height: var(--r-globalnav-height, 48px);
+    font-style: normal;
+    font-synthesis: none;
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    color: #636366;
+    font-size: 13px;
+    line-height: 1.38462;
+    font-weight: 400;
+    letter-spacing: -0.005em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Apple WebExp Icons Custom",
+      "Helvetica Neue", Helvetica, Arial, sans-serif;
+    direction: ltr;
+    unicode-bidi: isolate;
+    box-sizing: inherit;
+    -webkit-mask-size: 100% 100%;
+    -webkit-mask-position: right bottom;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: var(--clamp-lines);
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    --clamp-lines: 5;
+    max-width: 600px;
+  }
+  .errorNote {
+    color: #ee8484;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+
+  img {
+    width: 180px;
+  }
+
+  .nav {
+    a {
+      border-radius: 11px;
+      padding: 13px 25px;
+
+      display: inline-block;
+      font: normal 11px/1 "Open Sans", sans-serif;
+      text-align: center;
+      cursor: pointer;
+    }
+  }
+
+  /* Style for disabled buttons */
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+}
